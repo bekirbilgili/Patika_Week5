@@ -31,7 +31,5 @@ public class Main {
         for(Book book2: bookListAlphabetic){
             System.out.println(book2.getName());
         }
-
-
     }
 }

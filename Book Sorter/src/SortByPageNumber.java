@@ -7,3 +7,4 @@ public class SortByPageNumber implements Comparator<Book> {
         return o1.getPageNumber()- o2.getPageNumber();
     }
 }
+
