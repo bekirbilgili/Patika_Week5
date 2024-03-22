@@ -4,6 +4,6 @@ public class SortByPageNumber implements Comparator<Book> {
 
     @Override
     public int compare(Book o1, Book o2) {
-        return 0;
+        return o1.getPageNumber()- o2.getPageNumber();
     }
 }
