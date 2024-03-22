@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Book Sorter/Book Sorter.iml" filepath="$PROJECT_DIR$/Book Sorter/Book Sorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiksturOlusturucu/FiksturOlusturucu.iml" filepath="$PROJECT_DIR$/FiksturOlusturucu/FiksturOlusturucu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Patika_Week5.iml" filepath="$PROJECT_DIR$/.idea/Patika_Week5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Try_Catch_Block/Try_Catch_Block.iml" filepath="$PROJECT_DIR$/Try_Catch_Block/Try_Catch_Block.iml" />
     </modules>
